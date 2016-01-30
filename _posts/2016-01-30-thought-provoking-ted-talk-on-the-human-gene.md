@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Should you really be able to patent the human gene?
-datePublished: '2016-01-30T05:52:17.310Z'
+datePublished: '2016-01-30T05:52:17.316Z'
 dateModified: '2016-01-30T05:52:12.494Z'
 title: Thought provoking TED talk on the human gene
 author: []
